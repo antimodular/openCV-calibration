@@ -9,6 +9,9 @@ To make it work with wide angle lenses i needed to make this change in calibrati
 int calibFlags =CV_CALIB_FIX_PRINCIPAL_POINT | CV_CALIB_ZERO_TANGENT_DIST | CV_CALIB_FIX_FOCAL_LENGTH | CV_CALIB_FIX_ASPECT_RATIO | CV_CALIB_FIX_K3 | CV_CALIB_FIX_K4 | CV_CALIB_FIX_K5 | CV_CALIB_FIX_K6;
 ```
 
+## Cameras
+[custom Logitech C920](https://www.kurokesu.com/shop/cameras/KITCW920)
+
 ## Links
 https://forum.openframeworks.cc/t/ofxcv-calibration-artifacts/23614
 
